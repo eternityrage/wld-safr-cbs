@@ -1,0 +1,52 @@
+name: Reset Published Videos List
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  reset-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Reset published videos list
+        run: |
+          echo "Resetting published videos list..."
+          
+          # Backup current list
+          if [ -f published_videos.json ]; then
+            cp published_videos.json published_videos.json.backup
+            echo "✅ Backed up published_videos.json"
+            
+            # Show current count
+            count=$(python -c "import json; print(len(json.load(open('published_videos.json'))))")
+            echo "   Current videos in list: $count"
+          else
+            echo "ℹ️  No published_videos.json found"
+          fi
+          
+          # Create empty list
+          echo '[]' > published_videos.json
+          echo "✅ Published videos list RESET!"
+          
+      - name: Commit and push reset list
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add published_videos.json
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "Reset published videos list [skip ci]"
+            git push
+            echo "✅ Committed and pushed reset list"
+          else
+            echo "ℹ️  No changes to commit"
+          fi
