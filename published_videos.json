@@ -1726,5 +1726,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "imagine-3cbdc38a.mp4",
+        "metadata": {
+            "title": "Born to Roam: The Mighty Heartbeat of Africa\u2019s Wildsafari Cubs",
+            "description": "Step into the raw power of the African savannah, where strength moves quietly and beauty strikes like sunlight through tall grass. From the commanding presence of lions and the unstoppable force of elephants to the elegant lines of giraffes and the lightning-fast instincts of big cats, every frame reveals how life truly survives\u2014and thrives\u2014under open skies. Watch animal behavior unfold in unforgettable moments: a vigilant gaze before the hunt, the calm footsteps of a herd, the steady rhythm of the wild as it breathes around you. And behind the majesty lies a deeper purpose\u2014conservation\u2014because protecting these incredible creatures is the only way their stories continue for generations to come. Like if you love wildlife! Comment your favorite African animal! Share with a fellow nature lover! Follow Wildsafari Cubs for more incredible safari moments!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
