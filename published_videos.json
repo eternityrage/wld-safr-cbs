@@ -5710,5 +5710,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "imagine-fceed246.mp4",
+        "metadata": {
+            "title": "When the Savanna Holds Its Breath: Big Five Moments, Tiny Marvels, and Conservation Secrets | Wildsafari Cubs",
+            "description": "Step into a living classroom of the African savannah where every rustle, stare, and silent stomp tells a story\u2014today we\u2019re chasing breathtaking moments from the legendary Big Five to the smallest creatures that keep the ecosystem thriving. Watch how lions use teamwork and patience to turn the hunt into a masterclass of behavior, how elephants reshape the landscape with powerful memory and incredible social bonds, and how giraffes browse with calm precision while keeping a watchful eye on the wild world around them. Then we zoom in on the details most people miss\u2014tiny tracks, subtle signals, and survival strategies that reveal just how perfectly adapted every animal is to its home. Along the way, we highlight why conservation matters: protecting habitats means protecting families, food webs, and the future of wildlife for generations to come. Like if you love wildlife! Comment your favorite African animal! Share with a fellow nature lover! Follow Wildsafari Cubs for more incredible safari moments!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
