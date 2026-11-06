@@ -5742,5 +5742,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "imagine-101a7733.mp4",
+        "metadata": {
+            "title": "Roar Into the Wild: Witness Africa\u2019s Untamed Savannah\u2014From Big Five Majesty to Hidden Wonders",
+            "description": "Step into the raw heartbeat of the African wilderness in this unforgettable safari moment\u2014where dust drifts like gold across the savannah and every rustle carries a story. Watch the landscape awaken as majestic giants and elusive hunters move with purpose: the thunder of powerful footsteps, the watchful silence before a leap, and the fearless presence of life thriving beyond human reach. From the breathtaking grace of big cats to the quiet determination of smaller savannah creatures, this is wildlife in its purest form\u2014beautiful, unpredictable, and completely real. As you soak in the awe-inspiring behavior of these animals, remember that every roar and every track is a reminder of why conservation matters. Like if you love wildlife! Comment your favorite African animal! Share with a fellow nature lover! Follow Wildsafari Cubs for more incredible safari moments!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
