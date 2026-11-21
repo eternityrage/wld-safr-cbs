@@ -6462,5 +6462,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "imagine-fceed246.mp4",
+        "metadata": {
+            "title": "Little Cubs, Big Hearts: Watching the Savanna Teach Survival (and Love) at Dusk",
+            "description": "As the sun dips behind the golden grass, the savannah feels like a living storybook\u2014one where every breath matters and every bond is written in instinct. In this heartwarming safari moment, we follow the gentle courage of young cubs and the quiet wisdom of their families as they navigate dust, distance, and the wild beauty of Africa. From the thunderous presence of elephants and the graceful sweep of giraffes to the watchful strength of big cats and the bold patterns of zebra herds, you\u2019ll witness how life survives\u2014and how love keeps going, even in the toughest landscapes. Then, as night approaches, the smallest creatures awaken in the shadows, reminding us that every heartbeat in the ecosystem plays a role in conservation and hope for tomorrow. Like if you love wildlife! Comment your favorite African animal! Share with a fellow nature lover! Follow Wildsafari Cubs for more incredible safari moments!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
