@@ -6510,5 +6510,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "imagine-322c5792.mp4",
+        "metadata": {
+            "title": "Cubs on Safari: When the Big Five Turn Into Comedians (and the Savanna Steals the Show!)",
+            "description": "Ever watched a lion behave like it\u2019s in charge of a tiny kingdom\u2026 and then get absolutely upstaged by a cheeky zebra in the next second? At Wildsafari Cubs, we\u2019re chasing breathtaking African wildlife\u2014from powerful Big Five encounters to the smallest savannah secrets\u2014where every rustle, roar, and shuffle tells a story. One moment you\u2019ll be mesmerized by a calm, majestic elephant silhouette against the golden sky, and the next you\u2019ll be laughing at wild animal behavior that\u2019s too funny to be real. We\u2019re also spotlighting conservation, because protecting this incredible world means the magic stays for future cubs and future journeys. Like if you love wildlife! Comment your favorite African animal! Share with a fellow nature lover! Follow Wildsafari Cubs for more incredible safari moments!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
